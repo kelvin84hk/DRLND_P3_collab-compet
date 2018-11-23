@@ -48,7 +48,7 @@ To set up your Python environment to run the code in this repository, follow the
   
      https://pytorch.org/get-started/locally/
     
-  3. Then navigate to P1_Navigation/ml-agents-0.4.0b/python and install ml-agent.
+  3. Then navigate to DRLND_P3_collab-compet/ml-agents-0.4.0b/python and install ml-agent.
      ```
      pip install .
      ```
