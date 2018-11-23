@@ -65,13 +65,13 @@ To set up your Python environment to run the code in this repository, follow the
 
   Open Tennis.ipynb in Jupyter and press Ctrl+Enter to run the first cell to import all the libraries.
   
-  ### Watch a random agent
-   Run 2nd cell to 6th cell to watch how a random agent plays.
+  ### Watch random agents
+   Run 2nd cell to 6th cell to watch how random agents play.
    
   ### Train an agent
    Run the cells which contain the "train" function and then choose those cells with "train an agent with ..." in comment
    
   ### Watch a trained agent
-   Run the cells with "watch a ... trained agent" to watch how an agent trained by a particular algorithm behaves.
+   Run the cells with "watch a ... trained agent" to watch how agents trained by a particular algorithm behaves.
 
 
