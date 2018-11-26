@@ -6,7 +6,7 @@ The goal of this project is to train two agents by deep reinforcement learning a
 
 Multi-Agent Distributed Distributional Deep Deterministic Policy Gradients (MAD4PG) has been implemented.
 
-## Distributed Distributional Deterministic Policy Gradients (D4PG)
+## Distributed Distributional Deep Deterministic Policy Gradients (D4PG)
 
 ![alt text](https://github.com/kelvin84hk/DRLND_P3_collab-compet/blob/master/pics/d4pg_algo.jpg)
 
